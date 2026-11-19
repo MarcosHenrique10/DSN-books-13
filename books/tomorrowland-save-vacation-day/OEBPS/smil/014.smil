@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id176g">
+			<!--  -->
+			<text src="../014.xhtml#empty"/>
+			<audio clipBegin="96596ms" clipEnd="97501ms" src="../audio/9781484744550.m4a"/>
+		</par>
+		<par id="id176">
+			<!-- What -->
+			<text src="../014.xhtml#w176"/>
+			<audio clipBegin="97501ms" clipEnd="97701ms" src="../audio/9781484744550.m4a"/>
+		</par>
+		<par id="id177">
+			<!-- happened -->
+			<text src="../014.xhtml#w177"/>
+			<audio clipBegin="97701ms" clipEnd="98071ms" src="../audio/9781484744550.m4a"/>
+		</par>
+		<par id="id178">
+			<!-- to -->
+			<text src="../014.xhtml#w178"/>
+			<audio clipBegin="98071ms" clipEnd="98161ms" src="../audio/9781484744550.m4a"/>
+		</par>
+		<par id="id179">
+			<!-- the -->
+			<text src="../014.xhtml#w179"/>
+			<audio clipBegin="98161ms" clipEnd="98281ms" src="../audio/9781484744550.m4a"/>
+		</par>
+		<par id="id180">
+			<!-- oceans -->
+			<text src="../014.xhtml#w180"/>
+			<audio clipBegin="98281ms" clipEnd="98891ms" src="../audio/9781484744550.m4a"/>
+		</par>
+		<par id="id181">
+			<!-- Miles -->
+			<text src="../014.xhtml#w181"/>
+			<audio clipBegin="98891ms" clipEnd="99261ms" src="../audio/9781484744550.m4a"/>
+		</par>
+		<par id="id182">
+			<!-- asks -->
+			<text src="../014.xhtml#w182"/>
+			<audio clipBegin="99261ms" clipEnd="99751ms" src="../audio/9781484744550.m4a"/>
+		</par>
+		<par id="id182g">
+			<!--  -->
+			<text src="../014.xhtml#empty1"/>
+			<audio clipBegin="99751ms" clipEnd="100396ms" src="../audio/9781484744550.m4a"/>
+		</par>
+	</body>
+</smil>

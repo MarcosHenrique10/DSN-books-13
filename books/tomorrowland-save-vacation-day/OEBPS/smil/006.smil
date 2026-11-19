@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id53g">
+			<!--  -->
+			<text src="../006.xhtml#empty"/>
+			<audio clipBegin="40321ms" clipEnd="41251ms" src="../audio/9781484744550.m4a"/>
+		</par>
+		<par id="id53">
+			<!-- Dad -->
+			<text src="../006.xhtml#w53"/>
+			<audio clipBegin="41251ms" clipEnd="41591ms" src="../audio/9781484744550.m4a"/>
+		</par>
+		<par id="id54">
+			<!-- flies -->
+			<text src="../006.xhtml#w54"/>
+			<audio clipBegin="41591ms" clipEnd="41941ms" src="../audio/9781484744550.m4a"/>
+		</par>
+		<par id="id55">
+			<!-- the -->
+			<text src="../006.xhtml#w55"/>
+			<audio clipBegin="41941ms" clipEnd="42021ms" src="../audio/9781484744550.m4a"/>
+		</par>
+		<par id="id56">
+			<!-- spaceship -->
+			<text src="../006.xhtml#w56"/>
+			<audio clipBegin="42021ms" clipEnd="43131ms" src="../audio/9781484744550.m4a"/>
+		</par>
+		<par id="id57">
+			<!-- Here -->
+			<text src="../006.xhtml#w57"/>
+			<audio clipBegin="43131ms" clipEnd="43281ms" src="../audio/9781484744550.m4a"/>
+		</par>
+		<par id="id58">
+			<!-- we -->
+			<text src="../006.xhtml#w58"/>
+			<audio clipBegin="43281ms" clipEnd="43411ms" src="../audio/9781484744550.m4a"/>
+		</par>
+		<par id="id59">
+			<!-- are -->
+			<text src="../006.xhtml#w59"/>
+			<audio clipBegin="43411ms" clipEnd="43621ms" src="../audio/9781484744550.m4a"/>
+		</par>
+		<par id="id60">
+			<!-- kids -->
+			<text src="../006.xhtml#w60"/>
+			<audio clipBegin="43621ms" clipEnd="44181ms" src="../audio/9781484744550.m4a"/>
+		</par>
+		<par id="id61">
+			<!-- Mom -->
+			<text src="../006.xhtml#w61"/>
+			<audio clipBegin="44181ms" clipEnd="44431ms" src="../audio/9781484744550.m4a"/>
+		</par>
+		<par id="id62">
+			<!-- says -->
+			<text src="../006.xhtml#w62"/>
+			<audio clipBegin="44431ms" clipEnd="45241ms" src="../audio/9781484744550.m4a"/>
+		</par>
+		<par id="id63">
+			<!-- It -->
+			<text src="../006.xhtml#w63"/>
+			<audio clipBegin="45241ms" clipEnd="45341ms" src="../audio/9781484744550.m4a"/>
+		</par>
+		<par id="id64">
+			<!-- is -->
+			<text src="../006.xhtml#w64"/>
+			<audio clipBegin="45341ms" clipEnd="45461ms" src="../audio/9781484744550.m4a"/>
+		</par>
+		<par id="id65">
+			<!-- the -->
+			<text src="../006.xhtml#w65"/>
+			<audio clipBegin="45461ms" clipEnd="45541ms" src="../audio/9781484744550.m4a"/>
+		</par>
+		<par id="id66">
+			<!-- planet -->
+			<text src="../006.xhtml#w66"/>
+			<audio clipBegin="45541ms" clipEnd="46131ms" src="../audio/9781484744550.m4a"/>
+		</par>
+		<par id="id67">
+			<!-- Alarbus -->
+			<text src="../006.xhtml#w67"/>
+			<audio clipBegin="46131ms" clipEnd="47021ms" src="../audio/9781484744550.m4a"/>
+		</par>
+		<par id="id67g">
+			<!--  -->
+			<text src="../006.xhtml#empty1"/>
+			<audio clipBegin="47021ms" clipEnd="47576ms" src="../audio/9781484744550.m4a"/>
+		</par>
+	</body>
+</smil>

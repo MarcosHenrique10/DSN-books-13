@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id273g">
+      <!--  -->
+      <text src="../022.xhtml#empty"/>
+      <audio clipBegin="172515ms" clipEnd="173317ms" src="../audio/9781484718667.m4a"/>
+    </par>
+    <par id="id273">
+      <!-- Go -->
+      <text src="../022.xhtml#w273"/>
+      <audio clipBegin="173317ms" clipEnd="173547ms" src="../audio/9781484718667.m4a"/>
+    </par>
+    <par id="id274">
+      <!-- faster -->
+      <text src="../022.xhtml#w274"/>
+      <audio clipBegin="173547ms" clipEnd="174187ms" src="../audio/9781484718667.m4a"/>
+    </par>
+    <par id="id275">
+      <!-- Sheila -->
+      <text src="../022.xhtml#w275"/>
+      <audio clipBegin="174187ms" clipEnd="175047ms" src="../audio/9781484718667.m4a"/>
+    </par>
+    <par id="id276">
+      <!-- says -->
+      <text src="../022.xhtml#w276"/>
+      <audio clipBegin="175047ms" clipEnd="175367ms" src="../audio/9781484718667.m4a"/>
+    </par>
+    <par id="id277">
+      <!-- Gadfly -->
+      <text src="../022.xhtml#w277"/>
+      <audio clipBegin="175367ms" clipEnd="176767ms" src="../audio/9781484718667.m4a"/>
+    </par>
+    <par id="id278">
+      <!-- I -->
+      <text src="../022.xhtml#w278"/>
+      <audio clipBegin="176767ms" clipEnd="177207ms" src="../audio/9781484718667.m4a"/>
+    </par>
+    <par id="id279">
+      <!-- am -->
+      <text src="../022.xhtml#w279"/>
+      <audio clipBegin="177207ms" clipEnd="177447ms" src="../audio/9781484718667.m4a"/>
+    </par>
+    <par id="id280">
+      <!-- Stella -->
+      <text src="../022.xhtml#w280"/>
+      <audio clipBegin="177447ms" clipEnd="178457ms" src="../audio/9781484718667.m4a"/>
+    </par>
+    <par id="id281">
+      <!-- the -->
+      <text src="../022.xhtml#w281"/>
+      <audio clipBegin="178457ms" clipEnd="178547ms" src="../audio/9781484718667.m4a"/>
+    </par>
+    <par id="id282">
+      <!-- computer -->
+      <text src="../022.xhtml#w282"/>
+      <audio clipBegin="178547ms" clipEnd="179037ms" src="../audio/9781484718667.m4a"/>
+    </par>
+    <par id="id283">
+      <!-- says -->
+      <text src="../022.xhtml#w283"/>
+      <audio clipBegin="179037ms" clipEnd="179987ms" src="../audio/9781484718667.m4a"/>
+    </par>
+    <par id="id284">
+      <!-- So -->
+      <text src="../022.xhtml#w284"/>
+      <audio clipBegin="179987ms" clipEnd="180997ms" src="../audio/9781484718667.m4a"/>
+    </par>
+    <par id="id285">
+      <!-- Gadfly -->
+      <text src="../022.xhtml#w285"/>
+      <audio clipBegin="180997ms" clipEnd="181607ms" src="../audio/9781484718667.m4a"/>
+    </par>
+    <par id="id286">
+      <!-- says -->
+      <text src="../022.xhtml#w286"/>
+      <audio clipBegin="181607ms" clipEnd="182457ms" src="../audio/9781484718667.m4a"/>
+    </par>
+    <par id="id287">
+      <!-- We're -->
+      <text src="../022.xhtml#w287"/>
+      <audio clipBegin="182457ms" clipEnd="182677ms" src="../audio/9781484718667.m4a"/>
+    </par>
+    <par id="id288">
+      <!-- alone -->
+      <text src="../022.xhtml#w288"/>
+      <audio clipBegin="182677ms" clipEnd="184027ms" src="../audio/9781484718667.m4a"/>
+    </par>
+    <par id="id289">
+      <!-- Incorrect -->
+      <text src="../022.xhtml#w289"/>
+      <audio clipBegin="184027ms" clipEnd="185337ms" src="../audio/9781484718667.m4a"/>
+    </par>
+    <par id="id290">
+      <!-- says -->
+      <text src="../022.xhtml#w290"/>
+      <audio clipBegin="185337ms" clipEnd="185657ms" src="../audio/9781484718667.m4a"/>
+    </par>
+    <par id="id291">
+      <!-- Stella -->
+      <text src="../022.xhtml#w291"/>
+      <audio clipBegin="185657ms" clipEnd="186157ms" src="../audio/9781484718667.m4a"/>
+    </par>
+    <par id="id291g">
+      <!--  -->
+      <text src="../022.xhtml#empty"/>
+      <audio clipBegin="186157ms" clipEnd="187127ms" src="../audio/9781484718667.m4a"/>
+    </par>
+  </body>
+</smil>

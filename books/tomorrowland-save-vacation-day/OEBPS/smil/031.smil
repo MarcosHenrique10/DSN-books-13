@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id440g">
+			<!--  -->
+			<text src="../031.xhtml#empty"/>
+			<audio clipBegin="227556ms" clipEnd="228131ms" src="../audio/9781484744550.m4a"/>
+		</par>
+		<par id="id440">
+			<!-- Miles -->
+			<text src="../031.xhtml#w440"/>
+			<audio clipBegin="228131ms" clipEnd="228821ms" src="../audio/9781484744550.m4a"/>
+		</par>
+		<par id="id441">
+			<!-- Loretta -->
+			<text src="../031.xhtml#w441"/>
+			<audio clipBegin="228821ms" clipEnd="229311ms" src="../audio/9781484744550.m4a"/>
+		</par>
+		<par id="id442">
+			<!-- Mom -->
+			<text src="../031.xhtml#w442"/>
+			<audio clipBegin="229311ms" clipEnd="229621ms" src="../audio/9781484744550.m4a"/>
+		</par>
+		<par id="id443">
+			<!-- cries -->
+			<text src="../031.xhtml#w443"/>
+			<audio clipBegin="229621ms" clipEnd="230641ms" src="../audio/9781484744550.m4a"/>
+		</par>
+		<par id="id444">
+			<!-- Are -->
+			<text src="../031.xhtml#w444"/>
+			<audio clipBegin="230641ms" clipEnd="230741ms" src="../audio/9781484744550.m4a"/>
+		</par>
+		<par id="id445">
+			<!-- you -->
+			<text src="../031.xhtml#w445"/>
+			<audio clipBegin="230741ms" clipEnd="230931ms" src="../audio/9781484744550.m4a"/>
+		</par>
+		<par id="id446">
+			<!-- okay -->
+			<text src="../031.xhtml#w446"/>
+			<audio clipBegin="230931ms" clipEnd="231421ms" src="../audio/9781484744550.m4a"/>
+		</par>
+		<par id="id447">
+			<!-- Dad -->
+			<text src="../031.xhtml#w447"/>
+			<audio clipBegin="231421ms" clipEnd="231751ms" src="../audio/9781484744550.m4a"/>
+		</par>
+		<par id="id448">
+			<!-- asks -->
+			<text src="../031.xhtml#w448"/>
+			<audio clipBegin="231751ms" clipEnd="232921ms" src="../audio/9781484744550.m4a"/>
+		</par>
+		<par id="id449">
+			<!-- We're -->
+			<text src="../031.xhtml#w449"/>
+			<audio clipBegin="232921ms" clipEnd="233161ms" src="../audio/9781484744550.m4a"/>
+		</par>
+		<par id="id450">
+			<!-- superstellar -->
+			<text src="../031.xhtml#w450"/>
+			<audio clipBegin="233161ms" clipEnd="234301ms" src="../audio/9781484744550.m4a"/>
+		</par>
+		<par id="id451">
+			<!-- Miles -->
+			<text src="../031.xhtml#w451"/>
+			<audio clipBegin="234301ms" clipEnd="234701ms" src="../audio/9781484744550.m4a"/>
+		</par>
+		<par id="id452">
+			<!-- says -->
+			<text src="../031.xhtml#w452"/>
+			<audio clipBegin="234701ms" clipEnd="235161ms" src="../audio/9781484744550.m4a"/>
+		</par>
+		<par id="id452g">
+			<!--  -->
+			<text src="../031.xhtml#empty1"/>
+			<audio clipBegin="235161ms" clipEnd="236051ms" src="../audio/9781484744550.m4a"/>
+		</par>
+	</body>
+</smil>

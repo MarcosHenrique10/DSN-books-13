@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="14467ms" src="../audio/9781484718667.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Miles -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="14467ms" clipEnd="15207ms" src="../audio/9781484718667.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- from -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="15207ms" clipEnd="15557ms" src="../audio/9781484718667.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Tomorrowland -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="15557ms" clipEnd="17247ms" src="../audio/9781484718667.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Who -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="17247ms" clipEnd="17467ms" src="../audio/9781484718667.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- Stole -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="17467ms" clipEnd="17967ms" src="../audio/9781484718667.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- the -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="17967ms" clipEnd="18087ms" src="../audio/9781484718667.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Stellosphere -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="18087ms" clipEnd="19597ms" src="../audio/9781484718667.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Based -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="19597ms" clipEnd="19997ms" src="../audio/9781484718667.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- on -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="19997ms" clipEnd="20137ms" src="../audio/9781484718667.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- the -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="20137ms" clipEnd="20287ms" src="../audio/9781484718667.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- episode -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="20287ms" clipEnd="20937ms" src="../audio/9781484718667.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- written -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="20937ms" clipEnd="21357ms" src="../audio/9781484718667.m4a"/>
+    </par>
+    <par id="id13">
+      <!-- by -->
+      <text src="../003.xhtml#w13"/>
+      <audio clipBegin="21357ms" clipEnd="21557ms" src="../audio/9781484718667.m4a"/>
+    </par>
+    <par id="id14">
+      <!-- Greg -->
+      <text src="../003.xhtml#w14"/>
+      <audio clipBegin="21557ms" clipEnd="21947ms" src="../audio/9781484718667.m4a"/>
+    </par>
+    <par id="id15">
+      <!-- Johnson -->
+      <text src="../003.xhtml#w15"/>
+      <audio clipBegin="21947ms" clipEnd="23227ms" src="../audio/9781484718667.m4a"/>
+    </par>
+    <par id="id16">
+      <!-- Adapted -->
+      <text src="../003.xhtml#w16"/>
+      <audio clipBegin="23227ms" clipEnd="23927ms" src="../audio/9781484718667.m4a"/>
+    </par>
+    <par id="id17">
+      <!-- by -->
+      <text src="../003.xhtml#w17"/>
+      <audio clipBegin="23927ms" clipEnd="24197ms" src="../audio/9781484718667.m4a"/>
+    </par>
+    <par id="id18">
+      <!-- Bill -->
+      <text src="../003.xhtml#w18"/>
+      <audio clipBegin="24197ms" clipEnd="24577ms" src="../audio/9781484718667.m4a"/>
+    </par>
+    <par id="id19">
+      <!-- Scollon -->
+      <text src="../003.xhtml#w19"/>
+      <audio clipBegin="24577ms" clipEnd="25207ms" src="../audio/9781484718667.m4a"/>
+    </par>
+    <par id="id19g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="25207ms" clipEnd="25831ms" src="../audio/9781484718667.m4a"/>
+    </par>
+  </body>
+</smil>
