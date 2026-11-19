@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="100ms" clipEnd="5500ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- Thumper -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="5500ms" clipEnd="5950ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- and -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="5950ms" clipEnd="6200ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- the -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="6200ms" clipEnd="6320ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- Egg -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="6320ms" clipEnd="7146ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- Adapted -->
+			<text src="../003.xhtml#w5"/>
+			<audio clipBegin="7146ms" clipEnd="7776ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id6">
+			<!-- by -->
+			<text src="../003.xhtml#w6"/>
+			<audio clipBegin="7776ms" clipEnd="8066ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id7">
+			<!-- Brooke -->
+			<text src="../003.xhtml#w7"/>
+			<audio clipBegin="8066ms" clipEnd="8326ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id8">
+			<!-- Vitale -->
+			<text src="../003.xhtml#w8"/>
+			<audio clipBegin="8326ms" clipEnd="9366ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id9">
+			<!-- Illustrated -->
+			<text src="../003.xhtml#w9"/>
+			<audio clipBegin="9366ms" clipEnd="10066ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id10">
+			<!-- by -->
+			<text src="../003.xhtml#w10"/>
+			<audio clipBegin="10066ms" clipEnd="10186ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id11">
+			<!-- Lori -->
+			<text src="../003.xhtml#w11"/>
+			<audio clipBegin="10186ms" clipEnd="10536ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id12">
+			<!-- Tyminski -->
+			<text src="../003.xhtml#w12"/>
+			<audio clipBegin="10536ms" clipEnd="11186ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id13">
+			<!-- and -->
+			<text src="../003.xhtml#w13"/>
+			<audio clipBegin="11186ms" clipEnd="11456ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id14">
+			<!-- Valeria -->
+			<text src="../003.xhtml#w14"/>
+			<audio clipBegin="11456ms" clipEnd="11936ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id15">
+			<!-- Turati -->
+			<text src="../003.xhtml#w15"/>
+			<audio clipBegin="11936ms" clipEnd="12376ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id15g">
+			<!--  -->
+			<text src="../003.xhtml#empty1"/>
+			<audio clipBegin="12376ms" clipEnd="12645ms" src="../audio/9781368013376.m4a"/>
+		</par>
+	</body>
+</smil>

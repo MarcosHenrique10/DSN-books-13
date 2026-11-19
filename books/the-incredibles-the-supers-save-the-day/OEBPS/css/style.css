@@ -1,0 +1,216 @@
+img{z-index:-1;}
+
+body {
+	width: 765px;
+	height: 979px;
+	margin: 0;
+	border: none;
+}
+body > div {
+	position: relative;
+	overflow: hidden;
+	width: 765px;
+	height: 979px;
+}
+
+@font-face{
+font-family:"arial";
+src: url(../fonts/arial.ttf);
+}
+
+@font-face{
+font-family:"times-ro";
+src: url(../fonts/times-ro.ttf);
+}
+
+@font-face{
+font-family:"lucidabr";
+src: url(../fonts/lucidabr.ttf);
+}
+
+.coverpage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	margin: 0px;
+}
+.coverimage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	margin: 0px;
+}
+
+p.nonindent{
+	font-size: 15px;
+	line-height: 20px;
+	text-align: justify;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+p.indent1{
+	font-size: 18px;
+	line-height: 27px;
+	text-align: left;
+	text-indent: 33px;
+	margin-top: 0px;
+	margin-bottom: 1px;
+	font-family:"lucidabr";
+	word-spacing:0px;
+}
+
+p.indent{
+	font-size: 20px;
+	line-height: 27px;
+	text-align: left;
+	text-indent: 33px;
+	margin-top: 0px;
+	margin-bottom: 2px;
+	font-family:"lucidabr";
+	word-spacing:0px;
+}
+
+p.indentw{
+	font-size: 20px;
+	line-height: 27px;
+	text-align: left;
+	text-indent: 33px;
+	margin-top: 0px;
+	margin-bottom: 2px;
+	font-family:"lucidabr";
+	word-spacing:0px;
+	color:white;
+}
+
+.image {
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	max-width:100%;
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+}
+em {
+    font-style: oblique;
+}
+a
+{
+text-decoration: none;
+}
+div.page2_item1{
+	position: absolute;
+	top: 687px;
+	left: 0px;
+	right: 0px;
+}
+div.page5_item1{
+	position: absolute;
+	top: 50px;
+	left: 55px;
+	right: 0px;
+width: 679px;height: 264px;}
+div.page6_item1{
+	position: absolute;
+	top: 50px;
+	left: 55px;
+	right: 0px;
+width: 684px;height: 221px;}
+div.page8_item1{
+	position: absolute;
+	top: 50px;
+	left: 55px;
+	right: 0px;
+width: 659px;height: 338px;}
+div.page11_item1{
+	position: absolute;
+	top: 155px;
+	left: 92px;
+	right: 0px;
+width: 596px;height: 217px;}
+div.page12_item1{
+	position: absolute;
+	top: 50px;
+	left: 55px;
+	right: 0px;
+width: 665px;height: 224px;}
+div.page15_item1{
+	position: absolute;
+	top: 53px;
+	left: 132px;
+	right: 0px;
+width: 550px;height: 220px;}
+div.page16_item1{
+	position: absolute;
+	top: 70px;
+	left: 50px;
+	right: 0px;
+width: 695px;height: 320px;}
+div.page18_item1{
+	position: absolute;
+	top: 135px;
+	left: 78px;
+	right: 0px;
+width: 568px;height: 161px;}
+div.page21_item1{
+	position: absolute;
+	top: 668px;
+	left: 69px;
+	right: 0px;
+width: 660px;height: 263px;}
+div.page23_item1{
+	position: absolute;
+	top: 727px;
+	left: 97px;
+	right: 0px;
+width: 586px;height: 200px;}
+div.page24_item1{
+	position: absolute;
+	top: 52px;
+	left: 57px;
+	right: 0px;
+width: 668px;height: 345px;}
+div.page26_item1{
+	position: absolute;
+	top: 721px;
+	left: 195px;
+	right: 0px;
+width: 496px;height: 203px;}
+div.page28_item1{
+	position: absolute;
+	top: 53px;
+	left: 280px;
+	right: 0px;
+width: 440px;height: 203px;}
+div.page29_item1{
+	position: absolute;
+	top: 815px;
+	left: 73px;
+	right: 0px;
+width: 669px;height: 118px;}
+div.page30_item1{
+	position: absolute;
+	top: 105px;
+	left: 129px;
+	right: 0px;
+width: 579px;height: 175px;}
+
+
+span.arialp{
+font-family:"arial";
+}
+
+p.copy{
+	font-size: 13px;
+	line-height: 15px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 20px;
+font-family:"times-ro";
+	color:white;
+}
+
+.media-overlay-active { color:#f00 !important; }

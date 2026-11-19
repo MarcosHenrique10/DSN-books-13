@@ -1,0 +1,343 @@
+@font-face
+{
+  font-family: "Arial";
+  src: url(../fonts/Arial.ttf);
+}
+@font-face
+{
+  font-family: "CenturyOldStyleStd-Regular";
+  src: url(../fonts/CenturyOldStyleStd-Regular.otf);
+}
+@font-face
+{
+  font-family: "GoudyStd-Bold";
+  src: url(../fonts/GoudyStd-Bold.otf);
+}
+@font-face
+{
+  font-family: "GoudyStd-Italic";
+  src: url(../fonts/GoudyStd-Italic.otf);
+}
+@font-face
+{
+  font-family: "GoudyStd";
+  src: url(../fonts/GoudyStd.otf);
+}
+@font-face
+{
+  font-family: "JansonTextLTPro-Italic";
+  src: url(../fonts/JansonTextLTPro-Italic.otf);
+}
+@font-face
+{
+  font-family: "JansonTextLTPro-Roman";
+  src: url(../fonts/JansonTextLTPro-Roman.otf);
+}
+img{z-index:-1;}body {
+	width: 910px;
+	height: 1099px;
+	margin: 0;
+	border: none;
+}
+body > div {
+	position: relative;
+	overflow: hidden;
+	width: 910px;
+	height: 1099px;
+}
+.coverpage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	margin: 0px;
+}
+.coverimage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	margin: 0px;
+}
+.image {
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	max-width:100%;
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+}
+em {
+    font-style: oblique;
+}
+a
+{
+text-decoration: none;
+}
+div.page2_item1{
+	position: absolute;
+	top: 768px;
+	left: 102px;
+	right: 0px;
+width: 703px;height: 262px;}
+div.page3_item1{
+	position: absolute;
+	top: 746px;
+	left: 227px;
+	right: 0px;
+width: 501px;height: 191px;}
+div.page3_item2{
+	position: absolute;
+	top: 992px;
+	left: 370px;
+	right: 0px;
+width: 219px;height: 30px;}
+div.page5_item1{
+	position: absolute;
+	top: 863px;
+	left: 246px;
+	right: 0px;
+width: 587px;height: 176px;}
+div.page6_item1{
+	position: absolute;
+	top: 912px;
+	left: 112px;
+	right: 0px;
+width: 651px;height: 111px;}
+div.page7_item1{
+	position: absolute;
+	top: 78px;
+	left: 226px;
+	right: 0px;
+width: 545px;height: 112px;}
+div.page8_item1{
+	position: absolute;
+	top: 80px;
+	left: 114px;
+	right: 0px;
+width: 468px;height: 45px;}
+div.page8_item2{
+	position: absolute;
+	top: 484px;
+	left: 348px;
+	right: 0px;
+width: 272px;height: 70px;}
+div.page8_item3{
+	position: absolute;
+	top: 982px;
+	left: 312px;
+	right: 0px;
+width: 416px;height: 40px;}
+div.page9_item1{
+	position: absolute;
+	top: 840px;
+	left: 216px;
+	right: 0px;
+width: 591px;height: 174px;}
+div.page10_item1{
+	position: absolute;
+	top: 78px;
+	left: 160px;
+	right: 0px;
+width: 596px;height: 202px;}
+div.page11_item1{
+	position: absolute;
+	top: 840px;
+	left: 186px;
+	right: 0px;
+width: 636px;height: 183px;}
+div.page12_item1{
+	position: absolute;
+	top: 80px;
+	left: 150px;
+	right: 0px;
+width: 593px;height: 141px;}
+div.page13_item1{
+	position: absolute;
+	top: 874px;
+	left: 164px;
+	right: 0px;
+width: 679px;height: 150px;}
+div.page14_item1{
+	position: absolute;
+	top: 876px;
+	left: 114px;
+	right: 0px;
+width: 509px;height: 147px;}
+div.page15_item1{
+	position: absolute;
+	top: 78px;
+	left: 372px;
+	right: 0px;
+width: 458px;height: 225px;}
+div.page16_item1{
+	position: absolute;
+	top: 804px;
+	left: 114px;
+	right: 0px;
+width: 423px;height: 221px;}
+div.page17_item1{
+	position: absolute;
+	top: 80px;
+	left: 182px;
+	right: 0px;
+width: 644px;height: 231px;}
+div.page18_item1{
+	position: absolute;
+	top: 766px;
+	left: 114px;
+	right: 0px;
+width: 629px;height: 250px;}
+div.page19_item1{
+	position: absolute;
+	top: 840px;
+	left: 186px;
+	right: 0px;
+width: 635px;height: 179px;}
+div.page20_item1{
+	position: absolute;
+	top: 840px;
+	left: 140px;
+	right: 0px;
+width: 645px;height: 183px;}
+div.page21_item1{
+	position: absolute;
+	top: 840px;
+	left: 222px;
+	right: 0px;
+width: 542px;height: 192px;}
+div.page22_item1{
+	position: absolute;
+	top: 878px;
+	left: 140px;
+	right: 0px;
+width: 628px;height: 147px;}
+div.page23_item1{
+	position: absolute;
+	top: 80px;
+	left: 204px;
+	right: 0px;
+width: 607px;height: 252px;}
+div.page24_item1{
+	position: absolute;
+	top: 80px;
+	left: 136px;
+	right: 0px;
+width: 636px;height: 333px;}
+div.page25_item1{
+	position: absolute;
+	top: 804px;
+	left: 170px;
+	right: 0px;
+width: 671px;height: 216px;}
+div.page26_item1{
+	position: absolute;
+	top: 80px;
+	left: 114px;
+	right: 0px;
+width: 370px;height: 292px;}
+p.copyright{
+	word-spacing: 1px;
+	font-size: 17px;
+	line-height: 25px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 24px;
+  font-family: "CenturyOldStyleStd-Regular";
+}
+span.arial{
+  font-family: "Arial";
+}
+p.title{
+	font-size: 25px;
+	line-height: 30px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+  font-family: "GoudyStd";
+}
+p.title1{
+	font-size: 19px;
+	line-height: 26px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 4px;
+	margin-bottom: 0px;
+  font-family: "GoudyStd";
+}
+span.italic0{
+  font-family: "GoudyStd-Italic";
+}
+p.title2{
+	font-size: 19px;
+	line-height: 21px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+  font-family: "GoudyStd";
+}
+p.title3{
+	font-size: 25px;
+	line-height: 30px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 2px;
+	margin-bottom: 0px;
+  font-family: "GoudyStd";
+}
+p.logo{
+	word-spacing: 0px;
+	font-size: 17px;
+	line-height: 20px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 24px;
+  font-family: "CenturyOldStyleStd-Regular";
+}
+p.nonindent0{
+	word-spacing: 1px;
+	font-size: 26px;
+	line-height: 36px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+  font-family: "JansonTextLTPro-Roman";
+}
+span.dc{
+  font-family: "GoudyStd-Bold";
+  font-size: 66px;
+  color:#2A93BF;
+}
+span.space{
+margin-left: -8px;
+}
+p.indent{
+	word-spacing: 1px;
+	font-size: 26px;
+	line-height: 36px;
+	text-align: left;
+	text-indent: 34px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+  font-family: "JansonTextLTPro-Roman";
+}
+span.italic{
+  font-family: "JansonTextLTPro-Italic";
+}
+
+.media-overlay-active
+{ 
+color:#f00 !important;
+}
+.media-overlay-active span.dc,
+.media-overlay-active span.space,
+.media-overlay-active span.italic,
+.media-overlay-active span.italic0
+{ 
+color:#f00 !important;
+}

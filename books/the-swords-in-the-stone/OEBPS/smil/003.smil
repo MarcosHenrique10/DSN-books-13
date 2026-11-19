@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="100ms" clipEnd="12096ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- The -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="12096ms" clipEnd="12404ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- Sword -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="12404ms" clipEnd="12886ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- in -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="12886ms" clipEnd="13046ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- the -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="13046ms" clipEnd="13126ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- Stone -->
+			<text src="../003.xhtml#w5"/>
+			<audio clipBegin="13126ms" clipEnd="14396ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id6">
+			<!-- Adapted -->
+			<text src="../003.xhtml#w6"/>
+			<audio clipBegin="14396ms" clipEnd="14986ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id7">
+			<!-- by -->
+			<text src="../003.xhtml#w7"/>
+			<audio clipBegin="14986ms" clipEnd="15226ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id8">
+			<!-- Carl -->
+			<text src="../003.xhtml#w8"/>
+			<audio clipBegin="15226ms" clipEnd="15666ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id9">
+			<!-- Memling -->
+			<text src="../003.xhtml#w9"/>
+			<audio clipBegin="15666ms" clipEnd="16726ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id10">
+			<!-- Based -->
+			<text src="../003.xhtml#w10"/>
+			<audio clipBegin="16726ms" clipEnd="17066ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id11">
+			<!-- on -->
+			<text src="../003.xhtml#w11"/>
+			<audio clipBegin="17066ms" clipEnd="17166ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id12">
+			<!-- the -->
+			<text src="../003.xhtml#w12"/>
+			<audio clipBegin="17166ms" clipEnd="17246ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id13">
+			<!-- Walt -->
+			<text src="../003.xhtml#w13"/>
+			<audio clipBegin="17246ms" clipEnd="17646ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id14">
+			<!-- Disney -->
+			<text src="../003.xhtml#w14"/>
+			<audio clipBegin="17646ms" clipEnd="17956ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id15">
+			<!-- motion -->
+			<text src="../003.xhtml#w15"/>
+			<audio clipBegin="17956ms" clipEnd="18436ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id16">
+			<!-- picture -->
+			<text src="../003.xhtml#w16"/>
+			<audio clipBegin="18436ms" clipEnd="19086ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id17">
+			<!-- The -->
+			<text src="../003.xhtml#w17"/>
+			<audio clipBegin="19086ms" clipEnd="19156ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id18">
+			<!-- Sword -->
+			<text src="../003.xhtml#w18"/>
+			<audio clipBegin="19156ms" clipEnd="19616ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id19">
+			<!-- in -->
+			<text src="../003.xhtml#w19"/>
+			<audio clipBegin="19616ms" clipEnd="19726ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id20">
+			<!-- the -->
+			<text src="../003.xhtml#w20"/>
+			<audio clipBegin="19726ms" clipEnd="19796ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id21">
+			<!-- Stone -->
+			<text src="../003.xhtml#w21"/>
+			<audio clipBegin="19796ms" clipEnd="20976ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id22">
+			<!-- suggested -->
+			<text src="../003.xhtml#w22"/>
+			<audio clipBegin="20976ms" clipEnd="21706ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id23">
+			<!-- by -->
+			<text src="../003.xhtml#w23"/>
+			<audio clipBegin="21706ms" clipEnd="21886ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id24">
+			<!-- an -->
+			<text src="../003.xhtml#w24"/>
+			<audio clipBegin="21886ms" clipEnd="21986ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id25">
+			<!-- original -->
+			<text src="../003.xhtml#w25"/>
+			<audio clipBegin="21986ms" clipEnd="22466ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id26">
+			<!-- story -->
+			<text src="../003.xhtml#w26"/>
+			<audio clipBegin="22466ms" clipEnd="23376ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id27">
+			<!-- The -->
+			<text src="../003.xhtml#w27"/>
+			<audio clipBegin="23376ms" clipEnd="23446ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id28">
+			<!-- Sword -->
+			<text src="../003.xhtml#w28"/>
+			<audio clipBegin="23446ms" clipEnd="23846ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id29">
+			<!-- in -->
+			<text src="../003.xhtml#w29"/>
+			<audio clipBegin="23846ms" clipEnd="23946ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id30">
+			<!-- the -->
+			<text src="../003.xhtml#w30"/>
+			<audio clipBegin="23946ms" clipEnd="24026ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id31">
+			<!-- Stone -->
+			<text src="../003.xhtml#w31"/>
+			<audio clipBegin="24026ms" clipEnd="24886ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id32">
+			<!-- by -->
+			<text src="../003.xhtml#w32"/>
+			<audio clipBegin="24886ms" clipEnd="25056ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id33">
+			<!-- T -->
+			<text src="../003.xhtml#w33"/>
+			<audio clipBegin="25056ms" clipEnd="25356ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id34">
+			<!-- H -->
+			<text src="../003.xhtml#w34"/>
+			<audio clipBegin="25356ms" clipEnd="25646ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id35">
+			<!-- White -->
+			<text src="../003.xhtml#w35"/>
+			<audio clipBegin="25646ms" clipEnd="26776ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id36">
+			<!-- Pictures -->
+			<text src="../003.xhtml#w36"/>
+			<audio clipBegin="26776ms" clipEnd="27296ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id37">
+			<!-- by -->
+			<text src="../003.xhtml#w37"/>
+			<audio clipBegin="27296ms" clipEnd="27476ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id38">
+			<!-- The -->
+			<text src="../003.xhtml#w38"/>
+			<audio clipBegin="27476ms" clipEnd="27566ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id39">
+			<!-- Walt -->
+			<text src="../003.xhtml#w39"/>
+			<audio clipBegin="27566ms" clipEnd="27906ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id40">
+			<!-- Disney -->
+			<text src="../003.xhtml#w40"/>
+			<audio clipBegin="27906ms" clipEnd="28316ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id41">
+			<!-- Studio -->
+			<text src="../003.xhtml#w41"/>
+			<audio clipBegin="28316ms" clipEnd="29486ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id42">
+			<!-- adapted -->
+			<text src="../003.xhtml#w42"/>
+			<audio clipBegin="29486ms" clipEnd="30116ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id43">
+			<!-- by -->
+			<text src="../003.xhtml#w43"/>
+			<audio clipBegin="30116ms" clipEnd="30256ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id44">
+			<!-- Norm -->
+			<text src="../003.xhtml#w44"/>
+			<audio clipBegin="30256ms" clipEnd="30606ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id45">
+			<!-- McGary -->
+			<text src="../003.xhtml#w45"/>
+			<audio clipBegin="30606ms" clipEnd="31196ms" src="../audio/9781484788769.m4a"/>
+		</par>
+		<par id="id45g">
+			<!--  -->
+			<text src="../003.xhtml#empty1"/>
+			<audio clipBegin="31196ms" clipEnd="31409ms" src="../audio/9781484788769.m4a"/>
+		</par>
+	</body>
+</smil>

@@ -1,0 +1,230 @@
+/* CSS Reset */
+html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:text-top;}sub{vertical-align:text-bottom;}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}input,textarea,select{font-size:100%;}legend{color:#000;}
+
+@font-face {
+	font-family:"adpro-lt-std-regular";
+	src: url(../fonts/AdProLTStd-Regular.otf);
+}
+@font-face {
+	font-family:"adpro-lt-std-black";
+	src: url(../fonts/AdProLTStd-Black.otf);
+}
+@font-face {
+	font-family:"gill-sans-mt-italic";
+	src: url(../fonts/GillSansMT-Italic.otf);
+}
+@font-face {
+	font-family:"gill-sans-mt-regular";
+	src: url(../fonts/GillSansMT.otf);
+}
+
+
+.font-1 {
+	font-family:"gill-sans-mt-regular";
+	font-size:15px;
+}
+.font-2 {
+	font-family:"arial-roman";
+	font-size:14px;
+}
+.font-3 {
+	font-family:"gill-sans-mt-italic";
+	font-size:15px;
+}
+.font-4 {
+	font-family:"adpro-lt-std-regular";
+	font-size:23px;
+	line-height:36px;
+}
+.font-5 {
+	font-family:"adpro-lt-std-black";
+	font-size:35px;
+	line-height:38px;
+}
+.font-6 {
+	font-family:"adpro-lt-std-regular";
+	font-size:20px;
+	line-height:30px;
+}
+.font-7 {
+	font-family:"adpro-lt-std-black";
+	font-size:26px;
+	line-height:30px;
+}
+.font-8 {
+	font-family:"adpro-lt-std-black";
+	font-size:40px;
+	line-height:30px;
+}
+.font-9 {
+	font-family:"adpro-lt-std-black";
+	font-size:25px;
+	line-height:30px;
+}
+.font-10 {
+	font-family:"adpro-lt-std-black";
+	font-size:30px;
+	line-height:30px;
+}
+.font-11 {
+	font-family:"adpro-lt-std-regular";
+	font-size:21px;
+	line-height:30px;
+}
+.font-12 {
+	font-family:"adpro-lt-std-regular";
+	font-size:26px;
+	line-height:30px;
+}
+.font-13 {
+	font-family:"adpro-lt-std-regular";
+	font-size:30px;
+}
+.font-14 {
+	font-family:"adpro-lt-std-black";
+	font-size:42px;
+}
+.font-15 {
+	font-family:"adpro-lt-std-regular";
+	font-size:36px;
+}
+.font-16 {
+	font-family:"adpro-lt-std-regular";
+	font-size:34px;
+	line-height:48px;
+}
+.font-17 {
+	font-family:"adpro-lt-std-black";
+	font-size:42px;
+	line-height:56px;
+}
+.font-18 {
+	font-family:"adpro-lt-std-regular";
+	font-size:38px;
+	line-height:48px;
+}
+.font-19 {
+	font-family:"adpro-lt-std-black";
+	font-size:53px;
+}
+.font-20 {
+	font-family:"adpro-lt-std-regular";
+	font-size:26px;
+}
+
+
+.lh1 { line-height:17px !important }
+.m1 { margin-bottom:8px !important }
+.m2 { margin-bottom:10px !important }
+.m3 { margin-right:3px !important }
+.m4 { margin-bottom:10px !important }
+.vh  { vertical-align: 5px; margin-right:3px }
+
+/* color overlays */
+
+.c1 {color:#B11F25}
+.media-overlay-active .c1
+    { color:#f00 !important; fill:#f00 !important;}
+
+.c2 {color:#C83620}
+.media-overlay-active .c2
+    { color:#f00 !important; fill:#f00 !important;}
+
+.c3 {color:#585A56}
+.media-overlay-active .c3
+    { color:#f00 !important; fill:#f00 !important;}
+
+.c4 {color:#B859A2}
+.media-overlay-active .c4
+    { color:#f00 !important; fill:#f00 !important;}
+	
+.c5 {color:#058943}
+.media-overlay-active .c5
+    { color:#f00 !important; fill:#f00 !important;}				
+
+.c6 {color:#AA2B25}
+.media-overlay-active .c6
+    { color:#f00 !important; fill:#f00 !important;}
+	
+.c7 {color:#F15B22}
+.media-overlay-active .c7
+    { color:#f00 !important; fill:#f00 !important;}
+
+.c8 {color:#3D757A}
+.media-overlay-active .c8
+    { color:#f00 !important; fill:#f00 !important;}			
+
+.c9 {color:#6B4537}
+.media-overlay-active .c9
+    { color:#f00 !important; fill:#f00 !important;}
+
+.c10 {color:#575246}
+.media-overlay-active .c10
+    { color:#f00 !important; fill:#f00 !important;}
+	
+.c11 {color:#C83620}
+.media-overlay-active .c11
+    { color:#f00 !important; fill:#f00 !important;}
+
+.c12 {color:#B5519E}
+.media-overlay-active .c12
+    { color:#f00 !important; fill:#f00 !important;}		
+
+.c13 {color:#403E59}
+.media-overlay-active .c13
+    { color:#f00 !important; fill:#f00 !important;}
+	
+.c14 {color:#731C7B}
+.media-overlay-active .c14
+    { color:#f00 !important; fill:#f00 !important;}
+
+.c15 {color:#BD389F}
+.media-overlay-active .c15
+    { color:#f00 !important; fill:#f00 !important;}
+	
+.c16 {color:#523B31}
+.media-overlay-active .c16
+    { color:#f00 !important; fill:#f00 !important;}
+
+.c17 {color:#006440}
+.media-overlay-active .c17
+    { color:#f00 !important; fill:#f00 !important;}
+
+.c18 {color:#48444F}
+.media-overlay-active .c18
+    { color:#f00 !important; fill:#f00 !important;}										
+
+.c19 {color:#6C574C}
+.media-overlay-active .c19
+    { color:#f00 !important; fill:#f00 !important;}
+
+.c20 {color:#338475}
+.media-overlay-active .c20
+    { color:#f00 !important; fill:#f00 !important;}
+
+.c21 {color:#338475}
+.media-overlay-active .c21
+    { color:#f00 !important; fill:#f00 !important;}
+
+.c22 {color:#144989}
+.media-overlay-active .c22
+    { color:#f00 !important; fill:#f00 !important;}													
+
+
+
+.text-frame { position:absolute; }
+.text-frame p { margin:0; text-indent:1.7em; }
+.center { text-align:center; }
+.right { text-align:right; }
+.left { text-align:left; }
+.justify { text-align:justify; }
+.no-indent { text-indent:0 !important; }
+.no-indent p { text-indent:0 !important; }
+.smallcaps { font-variant:small-caps; }
+.allcaps { text-transform:uppercase; }
+.text-frame { border:0px solid red; } /* For troubleshooting only */
+.media-overlay-active { color:#f00 !important; } /* For audio books */
+.page, .page img { width:657px; height:985px; overflow:hidden; position:absolute; }
+.pageKF8 { width:1314px; height:985px; overflow:hidden; position:relative; background-size:100% 100% !important; }
+.pageKF8-single { width:657px; height:985px; position:relative; background-size:100% 100% !important; left:25%; }
+/*span { color:#f6f !important; }*/

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="100ms" clipEnd="20531ms" src="../audio/9781484751275.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- A -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="20531ms" clipEnd="20761ms" src="../audio/9781484751275.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- Perfect -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="20761ms" clipEnd="21341ms" src="../audio/9781484751275.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- Match -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="21341ms" clipEnd="22461ms" src="../audio/9781484751275.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- Written -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="22461ms" clipEnd="22871ms" src="../audio/9781484751275.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- by -->
+			<text src="../003.xhtml#w5"/>
+			<audio clipBegin="22871ms" clipEnd="23051ms" src="../audio/9781484751275.m4a"/>
+		</par>
+		<par id="id6">
+			<!-- Kitty -->
+			<text src="../003.xhtml#w6"/>
+			<audio clipBegin="23051ms" clipEnd="23411ms" src="../audio/9781484751275.m4a"/>
+		</par>
+		<par id="id7">
+			<!-- Richards -->
+			<text src="../003.xhtml#w7"/>
+			<audio clipBegin="23411ms" clipEnd="24611ms" src="../audio/9781484751275.m4a"/>
+		</par>
+		<par id="id8">
+			<!-- Illustrated -->
+			<text src="../003.xhtml#w8"/>
+			<audio clipBegin="24611ms" clipEnd="25361ms" src="../audio/9781484751275.m4a"/>
+		</par>
+		<par id="id9">
+			<!-- by -->
+			<text src="../003.xhtml#w9"/>
+			<audio clipBegin="25361ms" clipEnd="25701ms" src="../audio/9781484751275.m4a"/>
+		</par>
+		<par id="id10">
+			<!-- Olga -->
+			<text src="../003.xhtml#w10"/>
+			<audio clipBegin="25701ms" clipEnd="26001ms" src="../audio/9781484751275.m4a"/>
+		</par>
+		<par id="id11">
+			<!-- Mosqueda -->
+			<text src="../003.xhtml#w11"/>
+			<audio clipBegin="26001ms" clipEnd="27101ms" src="../audio/9781484751275.m4a"/>
+		</par>
+		<par id="id12">
+			<!-- and -->
+			<text src="../003.xhtml#w12"/>
+			<audio clipBegin="27101ms" clipEnd="27231ms" src="../audio/9781484751275.m4a"/>
+		</par>
+		<par id="id13">
+			<!-- Charles -->
+			<text src="../003.xhtml#w13"/>
+			<audio clipBegin="27231ms" clipEnd="27841ms" src="../audio/9781484751275.m4a"/>
+		</par>
+		<par id="id14">
+			<!-- Pickens -->
+			<text src="../003.xhtml#w14"/>
+			<audio clipBegin="27841ms" clipEnd="28451ms" src="../audio/9781484751275.m4a"/>
+		</par>
+		<par id="id14g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="28451ms" clipEnd="29496ms" src="../audio/9781484751275.m4a"/>
+		</par>
+	</body>
+</smil>

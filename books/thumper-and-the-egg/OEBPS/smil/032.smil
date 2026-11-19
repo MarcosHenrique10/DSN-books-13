@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id271g">
+			<!--  -->
+			<text src="../032.xhtml#empty"/>
+			<audio clipBegin="143860ms" clipEnd="144875ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id271">
+			<!-- Thumper's -->
+			<text src="../032.xhtml#w271"/>
+			<audio clipBegin="144875ms" clipEnd="145315ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id272">
+			<!-- sisters -->
+			<text src="../032.xhtml#w272"/>
+			<audio clipBegin="145315ms" clipEnd="145825ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id273">
+			<!-- come -->
+			<text src="../032.xhtml#w273"/>
+			<audio clipBegin="145825ms" clipEnd="146105ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id274">
+			<!-- back -->
+			<text src="../032.xhtml#w274"/>
+			<audio clipBegin="146105ms" clipEnd="146965ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id275">
+			<!-- They -->
+			<text src="../032.xhtml#w275"/>
+			<audio clipBegin="146965ms" clipEnd="147205ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id276">
+			<!-- found -->
+			<text src="../032.xhtml#w276"/>
+			<audio clipBegin="147205ms" clipEnd="147505ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id277">
+			<!-- the -->
+			<text src="../032.xhtml#w277"/>
+			<audio clipBegin="147505ms" clipEnd="147645ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id278">
+			<!-- egg's -->
+			<text src="../032.xhtml#w278"/>
+			<audio clipBegin="147645ms" clipEnd="147965ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id279">
+			<!-- nest -->
+			<text src="../032.xhtml#w279"/>
+			<audio clipBegin="147965ms" clipEnd="148845ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id280">
+			<!-- They -->
+			<text src="../032.xhtml#w280"/>
+			<audio clipBegin="148845ms" clipEnd="149125ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id281">
+			<!-- found -->
+			<text src="../032.xhtml#w281"/>
+			<audio clipBegin="149125ms" clipEnd="149535ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id282">
+			<!-- the -->
+			<text src="../032.xhtml#w282"/>
+			<audio clipBegin="149535ms" clipEnd="149725ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id283">
+			<!-- egg's -->
+			<text src="../032.xhtml#w283"/>
+			<audio clipBegin="149725ms" clipEnd="150005ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id284">
+			<!-- mom -->
+			<text src="../032.xhtml#w284"/>
+			<audio clipBegin="150005ms" clipEnd="150525ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id284g">
+			<!--  -->
+			<text src="../032.xhtml#empty1"/>
+			<audio clipBegin="150525ms" clipEnd="151030ms" src="../audio/9781368013376.m4a"/>
+		</par>
+	</body>
+</smil>

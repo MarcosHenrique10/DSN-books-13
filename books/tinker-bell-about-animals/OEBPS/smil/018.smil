@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id214g">
+      <!--  -->
+      <text src="../018.xhtml#empty"/>
+      <audio clipBegin="121544ms" clipEnd="122721ms" src="../audio/9781484735527.m4a"/>
+    </par>
+    <par id="id214">
+      <!-- Circus -->
+      <text src="../018.xhtml#w214"/>
+      <audio clipBegin="122721ms" clipEnd="123391ms" src="../audio/9781484735527.m4a"/>
+    </par>
+    <par id="id216">
+      <!-- of -->
+      <text src="../018.xhtml#w216"/>
+      <audio clipBegin="123391ms" clipEnd="123551ms" src="../audio/9781484735527.m4a"/>
+    </par>
+    <par id="id217">
+      <!-- puffins -->
+      <text src="../018.xhtml#w217"/>
+      <audio clipBegin="123551ms" clipEnd="124431ms" src="../audio/9781484735527.m4a"/>
+    </par>
+    <par id="id218">
+      <!-- gaze -->
+      <text src="../018.xhtml#w218"/>
+      <audio clipBegin="124431ms" clipEnd="124971ms" src="../audio/9781484735527.m4a"/>
+    </par>
+    <par id="id219">
+      <!-- of -->
+      <text src="../018.xhtml#w219"/>
+      <audio clipBegin="124971ms" clipEnd="125141ms" src="../audio/9781484735527.m4a"/>
+    </par>
+    <par id="id220">
+      <!-- raccoons -->
+      <text src="../018.xhtml#w220"/>
+      <audio clipBegin="125141ms" clipEnd="126331ms" src="../audio/9781484735527.m4a"/>
+    </par>
+    <par id="id221">
+      <!-- Stand -->
+      <text src="../018.xhtml#w221"/>
+      <audio clipBegin="126331ms" clipEnd="126991ms" src="../audio/9781484735527.m4a"/>
+    </par>
+    <par id="id223">
+      <!-- of -->
+      <text src="../018.xhtml#w223"/>
+      <audio clipBegin="126991ms" clipEnd="127131ms" src="../audio/9781484735527.m4a"/>
+    </par>
+    <par id="id224">
+      <!-- flamingoes -->
+      <text src="../018.xhtml#w224"/>
+      <audio clipBegin="127131ms" clipEnd="128171ms" src="../audio/9781484735527.m4a"/>
+    </par>
+    <par id="id225">
+      <!-- troop -->
+      <text src="../018.xhtml#w225"/>
+      <audio clipBegin="128171ms" clipEnd="128751ms" src="../audio/9781484735527.m4a"/>
+    </par>
+    <par id="id226">
+      <!-- of -->
+      <text src="../018.xhtml#w226"/>
+      <audio clipBegin="128751ms" clipEnd="128951ms" src="../audio/9781484735527.m4a"/>
+    </par>
+    <par id="id227">
+      <!-- baboons -->
+      <text src="../018.xhtml#w227"/>
+      <audio clipBegin="128951ms" clipEnd="129781ms" src="../audio/9781484735527.m4a"/>
+    </par>
+    <par id="id227g">
+      <!--  -->
+      <text src="../018.xhtml#empty"/>
+      <audio clipBegin="129781ms" clipEnd="130033ms" src="../audio/9781484735527.m4a"/>
+    </par>
+  </body>
+</smil>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id16g">
+			<!--  -->
+			<text src="../005.xhtml#empty"/>
+			<audio clipBegin="14257ms" clipEnd="14525ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id16">
+			<!-- it -->
+			<text src="../005.xhtml#w16"/>
+			<audio clipBegin="14525ms" clipEnd="14635ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id17">
+			<!-- is -->
+			<text src="../005.xhtml#w17"/>
+			<audio clipBegin="14635ms" clipEnd="14758ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id18">
+			<!-- a -->
+			<text src="../005.xhtml#w18"/>
+			<audio clipBegin="14758ms" clipEnd="14948ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id19">
+			<!-- warm -->
+			<text src="../005.xhtml#w19"/>
+			<audio clipBegin="14948ms" clipEnd="15575ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id20">
+			<!-- spring -->
+			<text src="../005.xhtml#w20"/>
+			<audio clipBegin="15575ms" clipEnd="16275ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id21">
+			<!-- day -->
+			<text src="../005.xhtml#w21"/>
+			<audio clipBegin="16275ms" clipEnd="17345ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id22">
+			<!-- Thumper -->
+			<text src="../005.xhtml#w22"/>
+			<audio clipBegin="17345ms" clipEnd="17795ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id23">
+			<!-- wants -->
+			<text src="../005.xhtml#w23"/>
+			<audio clipBegin="17795ms" clipEnd="18175ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id24">
+			<!-- to -->
+			<text src="../005.xhtml#w24"/>
+			<audio clipBegin="18175ms" clipEnd="18315ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id25">
+			<!-- explore -->
+			<text src="../005.xhtml#w25"/>
+			<audio clipBegin="18315ms" clipEnd="18925ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id26">
+			<!-- the -->
+			<text src="../005.xhtml#w26"/>
+			<audio clipBegin="18925ms" clipEnd="19035ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id27">
+			<!-- forest -->
+			<text src="../005.xhtml#w27"/>
+			<audio clipBegin="19035ms" clipEnd="19805ms" src="../audio/9781368013376.m4a"/>
+		</par>
+		<par id="id27g">
+			<!--  -->
+			<text src="../005.xhtml#empty1"/>
+			<audio clipBegin="19805ms" clipEnd="20815ms" src="../audio/9781368013376.m4a"/>
+		</par>
+	</body>
+</smil>

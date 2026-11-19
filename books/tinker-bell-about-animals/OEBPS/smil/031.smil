@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id362g">
+      <!--  -->
+      <text src="../031.xhtml#empty"/>
+      <audio clipBegin="206006ms" clipEnd="206171ms" src="../audio/9781484735527.m4a"/>
+    </par>
+    <par id="id362">
+      <!-- These -->
+      <text src="../031.xhtml#w362"/>
+      <audio clipBegin="206171ms" clipEnd="206561ms" src="../audio/9781484735527.m4a"/>
+    </par>
+    <par id="id363">
+      <!-- wildebeest -->
+      <text src="../031.xhtml#w363"/>
+      <audio clipBegin="206561ms" clipEnd="207451ms" src="../audio/9781484735527.m4a"/>
+    </par>
+    <par id="id364">
+      <!-- are -->
+      <text src="../031.xhtml#w364"/>
+      <audio clipBegin="207451ms" clipEnd="207591ms" src="../audio/9781484735527.m4a"/>
+    </par>
+    <par id="id365">
+      <!-- an -->
+      <text src="../031.xhtml#w365"/>
+      <audio clipBegin="207591ms" clipEnd="207751ms" src="../audio/9781484735527.m4a"/>
+    </par>
+    <par id="id366">
+      <!-- implausibility -->
+      <text src="../031.xhtml#w366"/>
+      <audio clipBegin="207751ms" clipEnd="209091ms" src="../audio/9781484735527.m4a"/>
+    </par>
+    <par id="id366g">
+      <!--  -->
+      <text src="../031.xhtml#empty"/>
+      <audio clipBegin="209091ms" clipEnd="210018ms" src="../audio/9781484735527.m4a"/>
+    </par>
+  </body>
+</smil>
