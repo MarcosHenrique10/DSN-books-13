@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!-- SPOKEN TITLE -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="15861ms" clipEnd="20624ms" src="../audio/9781423192275.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- By -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="20624ms" clipEnd="21105ms" src="../audio/9781423192275.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Tennant -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="21105ms" clipEnd="21565ms" src="../audio/9781423192275.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Redbank -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="21565ms" clipEnd="22635ms" src="../audio/9781423192275.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="22635ms" clipEnd="23235ms" src="../audio/9781423192275.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- by -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="23235ms" clipEnd="23415ms" src="../audio/9781423192275.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- Denise -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="23415ms" clipEnd="23865ms" src="../audio/9781423192275.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Shimabukuro -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="23865ms" clipEnd="25205ms" src="../audio/9781423192275.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- and -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="25205ms" clipEnd="25315ms" src="../audio/9781423192275.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- the -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="25315ms" clipEnd="25385ms" src="../audio/9781423192275.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- Disney -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="25385ms" clipEnd="25855ms" src="../audio/9781423192275.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- Storybook -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="25855ms" clipEnd="26545ms" src="../audio/9781423192275.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- Artists -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="26545ms" clipEnd="27388ms" src="../audio/9781423192275.m4a"/>
+    </par>
+    <par id="id12g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="27388ms" clipEnd="28181ms" src="../audio/9781423192275.m4a"/>
+    </par>
+  </body>
+</smil>

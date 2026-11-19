@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id140g">
+      <!--  -->
+      <text src="../007.xhtml#empty"/>
+      <audio clipBegin="82102ms" clipEnd="82842ms" src="../audio/9781484718728.m4a"/>
+    </par>
+    <par id="id140">
+      <!-- What's -->
+      <text src="../007.xhtml#w140"/>
+      <audio clipBegin="82842ms" clipEnd="83342ms" src="../audio/9781484718728.m4a"/>
+    </par>
+    <par id="id141">
+      <!-- in -->
+      <text src="../007.xhtml#w141"/>
+      <audio clipBegin="83342ms" clipEnd="83652ms" src="../audio/9781484718728.m4a"/>
+    </par>
+    <par id="id142">
+      <!-- there -->
+      <text src="../007.xhtml#w142"/>
+      <audio clipBegin="83652ms" clipEnd="84712ms" src="../audio/9781484718728.m4a"/>
+    </par>
+    <par id="id143">
+      <!-- Miles -->
+      <text src="../007.xhtml#w143"/>
+      <audio clipBegin="84712ms" clipEnd="85212ms" src="../audio/9781484718728.m4a"/>
+    </par>
+    <par id="id144">
+      <!-- wonders -->
+      <text src="../007.xhtml#w144"/>
+      <audio clipBegin="85212ms" clipEnd="85862ms" src="../audio/9781484718728.m4a"/>
+    </par>
+    <par id="id144g">
+      <!--  -->
+      <text src="../007.xhtml#empty"/>
+      <audio clipBegin="85862ms" clipEnd="86794ms" src="../audio/9781484718728.m4a"/>
+    </par>
+  </body>
+</smil>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id98g">
+      <!--  -->
+      <text src="../007.xhtml#empty"/>
+      <audio clipBegin="67180ms" clipEnd="67695ms" src="../audio/9781423192275.m4a"/>
+    </par>
+    <par id="id98">
+      <!-- Snap -->
+      <text src="../007.xhtml#w98"/>
+      <audio clipBegin="67695ms" clipEnd="68385ms" src="../audio/9781423192275.m4a"/>
+    </par>
+    <par id="id99">
+      <!-- Snap -->
+      <text src="../007.xhtml#w99"/>
+      <audio clipBegin="68385ms" clipEnd="68885ms" src="../audio/9781423192275.m4a"/>
+    </par>
+    <par id="id100">
+      <!-- Snap -->
+      <text src="../007.xhtml#w100"/>
+      <audio clipBegin="68885ms" clipEnd="69945ms" src="../audio/9781423192275.m4a"/>
+    </par>
+    <par id="id101">
+      <!-- The -->
+      <text src="../007.xhtml#w101"/>
+      <audio clipBegin="69945ms" clipEnd="70015ms" src="../audio/9781423192275.m4a"/>
+    </par>
+    <par id="id102">
+      <!-- flower -->
+      <text src="../007.xhtml#w102"/>
+      <audio clipBegin="70015ms" clipEnd="70485ms" src="../audio/9781423192275.m4a"/>
+    </par>
+    <par id="id103">
+      <!-- nipped -->
+      <text src="../007.xhtml#w103"/>
+      <audio clipBegin="70485ms" clipEnd="70885ms" src="../audio/9781423192275.m4a"/>
+    </par>
+    <par id="id104">
+      <!-- at -->
+      <text src="../007.xhtml#w104"/>
+      <audio clipBegin="70885ms" clipEnd="70995ms" src="../audio/9781423192275.m4a"/>
+    </par>
+    <par id="id105">
+      <!-- Lily's -->
+      <text src="../007.xhtml#w105"/>
+      <audio clipBegin="70995ms" clipEnd="71395ms" src="../audio/9781423192275.m4a"/>
+    </par>
+    <par id="id106">
+      <!-- fingers -->
+      <text src="../007.xhtml#w106"/>
+      <audio clipBegin="71395ms" clipEnd="72075ms" src="../audio/9781423192275.m4a"/>
+    </par>
+    <par id="id106g">
+      <!--  -->
+      <text src="../007.xhtml#empty"/>
+      <audio clipBegin="72075ms" clipEnd="72838ms" src="../audio/9781423192275.m4a"/>
+    </par>
+  </body>
+</smil>

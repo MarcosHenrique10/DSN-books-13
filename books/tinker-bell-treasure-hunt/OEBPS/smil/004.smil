@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id24g">
+      <!--  -->
+      <text src="../004.xhtml#empty"/>
+      <audio clipBegin="32328ms" clipEnd="33265ms" src="../audio/9781484703373.m4a"/>
+    </par>
+    <par id="id24">
+      <!-- The -->
+      <text src="../004.xhtml#w24"/>
+      <audio clipBegin="33265ms" clipEnd="33355ms" src="../audio/9781484703373.m4a"/>
+    </par>
+    <par id="id25">
+      <!-- fairies -->
+      <text src="../004.xhtml#w25"/>
+      <audio clipBegin="33355ms" clipEnd="33895ms" src="../audio/9781484703373.m4a"/>
+    </par>
+    <par id="id26">
+      <!-- of -->
+      <text src="../004.xhtml#w26"/>
+      <audio clipBegin="33895ms" clipEnd="34057ms" src="../audio/9781484703373.m4a"/>
+    </par>
+    <par id="id27">
+      <!-- Pixie -->
+      <text src="../004.xhtml#w27"/>
+      <audio clipBegin="34057ms" clipEnd="34375ms" src="../audio/9781484703373.m4a"/>
+    </par>
+    <par id="id28">
+      <!-- Hollow -->
+      <text src="../004.xhtml#w28"/>
+      <audio clipBegin="34375ms" clipEnd="34775ms" src="../audio/9781484703373.m4a"/>
+    </par>
+    <par id="id29">
+      <!-- are -->
+      <text src="../004.xhtml#w29"/>
+      <audio clipBegin="34775ms" clipEnd="34895ms" src="../audio/9781484703373.m4a"/>
+    </par>
+    <par id="id30">
+      <!-- bringing -->
+      <text src="../004.xhtml#w30"/>
+      <audio clipBegin="34895ms" clipEnd="35365ms" src="../audio/9781484703373.m4a"/>
+    </par>
+    <par id="id31">
+      <!-- autumn -->
+      <text src="../004.xhtml#w31"/>
+      <audio clipBegin="35365ms" clipEnd="35765ms" src="../audio/9781484703373.m4a"/>
+    </par>
+    <par id="id32">
+      <!-- to -->
+      <text src="../004.xhtml#w32"/>
+      <audio clipBegin="35765ms" clipEnd="35835ms" src="../audio/9781484703373.m4a"/>
+    </par>
+    <par id="id33">
+      <!-- the -->
+      <text src="../004.xhtml#w33"/>
+      <audio clipBegin="35835ms" clipEnd="35925ms" src="../audio/9781484703373.m4a"/>
+    </par>
+    <par id="id34">
+      <!-- mainland -->
+      <text src="../004.xhtml#w34"/>
+      <audio clipBegin="35925ms" clipEnd="37185ms" src="../audio/9781484703373.m4a"/>
+    </par>
+    <par id="id35">
+      <!-- Leaves -->
+      <text src="../004.xhtml#w35"/>
+      <audio clipBegin="37185ms" clipEnd="37635ms" src="../audio/9781484703373.m4a"/>
+    </par>
+    <par id="id36">
+      <!-- change -->
+      <text src="../004.xhtml#w36"/>
+      <audio clipBegin="37635ms" clipEnd="38025ms" src="../audio/9781484703373.m4a"/>
+    </par>
+    <par id="id37">
+      <!-- color -->
+      <text src="../004.xhtml#w37"/>
+      <audio clipBegin="38025ms" clipEnd="38755ms" src="../audio/9781484703373.m4a"/>
+    </par>
+    <par id="id38">
+      <!-- Pumpkins -->
+      <text src="../004.xhtml#w38"/>
+      <audio clipBegin="38755ms" clipEnd="39265ms" src="../audio/9781484703373.m4a"/>
+    </par>
+    <par id="id39">
+      <!-- ripen -->
+      <text src="../004.xhtml#w39"/>
+      <audio clipBegin="39265ms" clipEnd="40125ms" src="../audio/9781484703373.m4a"/>
+    </par>
+    <par id="id40">
+      <!-- Birds -->
+      <text src="../004.xhtml#w40"/>
+      <audio clipBegin="40125ms" clipEnd="40515ms" src="../audio/9781484703373.m4a"/>
+    </par>
+    <par id="id41">
+      <!-- fly -->
+      <text src="../004.xhtml#w41"/>
+      <audio clipBegin="40515ms" clipEnd="40745ms" src="../audio/9781484703373.m4a"/>
+    </par>
+    <par id="id42">
+      <!-- south -->
+      <text src="../004.xhtml#w42"/>
+      <audio clipBegin="40745ms" clipEnd="41235ms" src="../audio/9781484703373.m4a"/>
+    </par>
+    <par id="id43">
+      <!-- for -->
+      <text src="../004.xhtml#w43"/>
+      <audio clipBegin="41235ms" clipEnd="41335ms" src="../audio/9781484703373.m4a"/>
+    </par>
+    <par id="id44">
+      <!-- the -->
+      <text src="../004.xhtml#w44"/>
+      <audio clipBegin="41335ms" clipEnd="41425ms" src="../audio/9781484703373.m4a"/>
+    </par>
+    <par id="id45">
+      <!-- winter -->
+      <text src="../004.xhtml#w45"/>
+      <audio clipBegin="41425ms" clipEnd="41955ms" src="../audio/9781484703373.m4a"/>
+    </par>
+  </body>
+</smil>

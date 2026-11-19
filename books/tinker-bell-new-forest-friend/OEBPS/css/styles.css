@@ -1,0 +1,133 @@
+/* CSS Reset */
+html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:text-top;}sub{vertical-align:text-bottom;}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}input,textarea,select{font-size:100%;}legend{color:#000;}
+@font-face {
+	font-family:"century-schoolbook-regular";
+	src: url(../fonts/CenturySchoolbook.otf);
+}
+@font-face {
+	font-family:"goudy-old-style-regular";
+	src: url(../fonts/GoudyOldStyleT-Regular.otf);
+}
+@font-face {
+	font-family:"goudy-old-style-italic";
+	src: url(../fonts/goudy-old-style-italic.otf);
+}
+@font-face {
+	font-family:"times-regular";
+	src: url(../fonts/TimesNewRomanPSMT.otf);
+}
+@font-face {
+	font-family:"times-new-roman-regular";
+	src: url(../fonts/TimesNewRomanPSMT.otf);
+}
+@font-face {
+	font-family:"minion-pro-regular";
+	src: url(../fonts/MinionPro-Regular.otf);
+}
+@font-face {
+	font-family:"arial-regular";
+	src: url(../fonts/Arial.otf);
+}
+@font-face {
+	font-family:"arial-bold";
+	src: url(../fonts/arial-bold.otf);
+}
+@font-face {
+	font-family:"cambria-italic";
+	src: url(../fonts/cambria-italic.otf);
+}
+@font-face {
+	font-family:"love-potion-bold";
+	src: url(../fonts/love-potion-bold.otf);
+}
+.font-1 {
+	font-family:"times-new-roman-regular";
+	font-size:15px;
+}
+.font-1a {
+	font-family:"times-new-roman-regular";
+	font-size:14px;
+}
+.font-2 {
+	font-family:"arial-regular";
+	font-size:15px;
+}
+.font-2a {
+	font-family:"arial-regular";
+	font-size:14px;
+}
+.font-3 {
+	font-family:"times-new-roman-regular";
+	font-size:15px;
+	line-height:18px;
+}
+.font-3a {
+	font-family:"times-new-roman-regular";
+	font-size:14px;
+}
+.font-4 {
+	font-family:"century-schoolbook-regular";
+	font-size:18px;
+}
+.font-5 {
+	font-family:"century-schoolbook-regular";
+	font-size:20px;
+	line-height:27px;
+}
+.font-6 {
+	font-family:"goudy-old-style-italic";
+	font-size:21px;
+	line-height:27px;
+}
+.font-6a {
+	font-family:"goudy-old-style-italic";
+	font-size:18px;
+}
+.font-7 {
+	font-family:"goudy-old-style-regular";
+	font-size:21px;
+	line-height:27px;
+}
+.font-7a {
+	font-family:"goudy-old-style-regular";
+	font-size:18px;
+}
+.font-8 {
+	font-family:"cambria-italic";
+	font-size:15px;
+	line-height:27px;
+}
+.font-9 {
+	font-family:"love-potion-bold";
+	font-size:29px;
+	line-height:32px;
+}
+.font-9a {
+	font-family:"love-potion-bold";
+	font-size:24px;
+}
+.font-10 {
+	font-family:"arial-bold";
+	font-size:18px;
+}
+.text-frame { position:absolute; }
+.text-frame p { margin:0; text-indent:1.7em; }
+.center { text-align:center; }
+.right { text-align:right; }
+.left { text-align:left; }
+.justify { text-align:justify; }
+.no-indent { text-indent:0 !important; }
+.no-indent p { text-indent:0 !important; }
+.smallcaps { font-variant:small-caps; }
+.allcaps { text-transform:uppercase; }
+.text-frame { border:0px solid red; } /* For troubleshooting only */
+.media-overlay-active { color:#f00 !important; } /* For audio books */
+.page, .page img { width:738px; height:738px; overflow:hidden; position:absolute; }
+.pageKF8 { width:1476px; height:738px; overflow:hidden; position:relative; background-size:100% 100% !important; }
+.pageKF8-single { width:738px; height:738px; position:relative; background-size:100% 100% !important; left:25%; }
+.m1 {margin-top:0.50em !important;}
+.m2 {margin-top:-0.05em !important;}
+.m3 {margin-top:1.25em !important;}
+.m4 {margin-top:0.25em !important;}
+.m5 {margin-top:0.18em !important;}
+/*span { color:#f6f !important; }*/

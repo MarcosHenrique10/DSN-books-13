@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id433g">
+      <!--  -->
+      <text src="../025.xhtml#empty"/>
+      <audio clipBegin="217965ms" clipEnd="218425ms" src="../audio/9781423192275.m4a"/>
+    </par>
+    <par id="id433">
+      <!-- None -->
+      <text src="../025.xhtml#w433"/>
+      <audio clipBegin="218425ms" clipEnd="218935ms" src="../audio/9781423192275.m4a"/>
+    </par>
+    <par id="id434">
+      <!-- of -->
+      <text src="../025.xhtml#w434"/>
+      <audio clipBegin="218935ms" clipEnd="219025ms" src="../audio/9781423192275.m4a"/>
+    </par>
+    <par id="id435">
+      <!-- the -->
+      <text src="../025.xhtml#w435"/>
+      <audio clipBegin="219025ms" clipEnd="219135ms" src="../audio/9781423192275.m4a"/>
+    </par>
+    <par id="id436">
+      <!-- flowers -->
+      <text src="../025.xhtml#w436"/>
+      <audio clipBegin="219135ms" clipEnd="219715ms" src="../audio/9781423192275.m4a"/>
+    </par>
+    <par id="id437">
+      <!-- in -->
+      <text src="../025.xhtml#w437"/>
+      <audio clipBegin="219715ms" clipEnd="219815ms" src="../audio/9781423192275.m4a"/>
+    </par>
+    <par id="id438">
+      <!-- Lily's -->
+      <text src="../025.xhtml#w438"/>
+      <audio clipBegin="219815ms" clipEnd="220195ms" src="../audio/9781423192275.m4a"/>
+    </par>
+    <par id="id439">
+      <!-- garden -->
+      <text src="../025.xhtml#w439"/>
+      <audio clipBegin="220195ms" clipEnd="220725ms" src="../audio/9781423192275.m4a"/>
+    </par>
+    <par id="id440">
+      <!-- wanted -->
+      <text src="../025.xhtml#w440"/>
+      <audio clipBegin="220725ms" clipEnd="221055ms" src="../audio/9781423192275.m4a"/>
+    </par>
+    <par id="id441">
+      <!-- to -->
+      <text src="../025.xhtml#w441"/>
+      <audio clipBegin="221055ms" clipEnd="221145ms" src="../audio/9781423192275.m4a"/>
+    </par>
+    <par id="id442">
+      <!-- be -->
+      <text src="../025.xhtml#w442"/>
+      <audio clipBegin="221145ms" clipEnd="221295ms" src="../audio/9781423192275.m4a"/>
+    </par>
+    <par id="id443">
+      <!-- near -->
+      <text src="../025.xhtml#w443"/>
+      <audio clipBegin="221295ms" clipEnd="221625ms" src="../audio/9781423192275.m4a"/>
+    </par>
+    <par id="id444">
+      <!-- the -->
+      <text src="../025.xhtml#w444"/>
+      <audio clipBegin="221625ms" clipEnd="221745ms" src="../audio/9781423192275.m4a"/>
+    </par>
+    <par id="id445">
+      <!-- tiger -->
+      <text src="../025.xhtml#w445"/>
+      <audio clipBegin="221745ms" clipEnd="222135ms" src="../audio/9781423192275.m4a"/>
+    </par>
+    <par id="id446">
+      <!-- lily -->
+      <text src="../025.xhtml#w446"/>
+      <audio clipBegin="222135ms" clipEnd="222475ms" src="../audio/9781423192275.m4a"/>
+    </par>
+    <par id="id446g">
+      <!--  -->
+      <text src="../025.xhtml#empty"/>
+      <audio clipBegin="222475ms" clipEnd="223195ms" src="../audio/9781423192275.m4a"/>
+    </par>
+  </body>
+</smil>
