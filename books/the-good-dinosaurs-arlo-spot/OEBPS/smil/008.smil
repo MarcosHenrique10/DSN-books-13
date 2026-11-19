@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id38g">
+			<!--  -->
+			<text src="../008.xhtml#empty"/>
+			<audio clipBegin="39621ms" clipEnd="39913ms" src="../audio/9781484701560.m4a"/>
+		</par>
+		<par id="id38">
+			<!-- Arlo -->
+			<text src="../008.xhtml#w38"/>
+			<audio clipBegin="39913ms" clipEnd="40323ms" src="../audio/9781484701560.m4a"/>
+		</par>
+		<par id="id39">
+			<!-- keeps -->
+			<text src="../008.xhtml#w39"/>
+			<audio clipBegin="40323ms" clipEnd="40823ms" src="../audio/9781484701560.m4a"/>
+		</par>
+		<par id="id40">
+			<!-- Spot -->
+			<text src="../008.xhtml#w40"/>
+			<audio clipBegin="40823ms" clipEnd="41213ms" src="../audio/9781484701560.m4a"/>
+		</par>
+		<par id="id41">
+			<!-- safe -->
+			<text src="../008.xhtml#w41"/>
+			<audio clipBegin="41213ms" clipEnd="41893ms" src="../audio/9781484701560.m4a"/>
+		</par>
+		<par id="id41g">
+			<!--  -->
+			<text src="../008.xhtml#empty1"/>
+			<audio clipBegin="41893ms" clipEnd="42458ms" src="../audio/9781484701560.m4a"/>
+		</par>
+	</body>
+</smil>

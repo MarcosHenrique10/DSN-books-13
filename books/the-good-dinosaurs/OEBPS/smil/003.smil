@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="100ms" clipEnd="14857ms" src="../audio/9781484701935.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- THE -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="14857ms" clipEnd="14957ms" src="../audio/9781484701935.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- GOOD -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="14957ms" clipEnd="15337ms" src="../audio/9781484701935.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- DINOSAUR -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="15337ms" clipEnd="16887ms" src="../audio/9781484701935.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- Adapted -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="16887ms" clipEnd="17487ms" src="../audio/9781484701935.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- by -->
+			<text src="../003.xhtml#w5"/>
+			<audio clipBegin="17487ms" clipEnd="17677ms" src="../audio/9781484701935.m4a"/>
+		</par>
+		<par id="id6">
+			<!-- Bill -->
+			<text src="../003.xhtml#w6"/>
+			<audio clipBegin="17677ms" clipEnd="17917ms" src="../audio/9781484701935.m4a"/>
+		</par>
+		<par id="id7">
+			<!-- Scollon -->
+			<text src="../003.xhtml#w7"/>
+			<audio clipBegin="17917ms" clipEnd="19247ms" src="../audio/9781484701935.m4a"/>
+		</par>
+		<par id="id8">
+			<!-- Illustrated -->
+			<text src="../003.xhtml#w8"/>
+			<audio clipBegin="19247ms" clipEnd="19937ms" src="../audio/9781484701935.m4a"/>
+		</par>
+		<par id="id9">
+			<!-- by -->
+			<text src="../003.xhtml#w9"/>
+			<audio clipBegin="19937ms" clipEnd="20157ms" src="../audio/9781484701935.m4a"/>
+		</par>
+		<par id="id10">
+			<!-- Michaelangelo -->
+			<text src="../003.xhtml#w10"/>
+			<audio clipBegin="20157ms" clipEnd="20977ms" src="../audio/9781484701935.m4a"/>
+		</par>
+		<par id="id11">
+			<!-- Rocco -->
+			<text src="../003.xhtml#w11"/>
+			<audio clipBegin="20977ms" clipEnd="22047ms" src="../audio/9781484701935.m4a"/>
+		</par>
+		<par id="id12">
+			<!-- Designed -->
+			<text src="../003.xhtml#w12"/>
+			<audio clipBegin="22047ms" clipEnd="22757ms" src="../audio/9781484701935.m4a"/>
+		</par>
+		<par id="id13">
+			<!-- by -->
+			<text src="../003.xhtml#w13"/>
+			<audio clipBegin="22757ms" clipEnd="22877ms" src="../audio/9781484701935.m4a"/>
+		</par>
+		<par id="id14">
+			<!-- Tony -->
+			<text src="../003.xhtml#w14"/>
+			<audio clipBegin="22877ms" clipEnd="23247ms" src="../audio/9781484701935.m4a"/>
+		</par>
+		<par id="id15">
+			<!-- Fejeran -->
+			<text src="../003.xhtml#w15"/>
+			<audio clipBegin="23247ms" clipEnd="23697ms" src="../audio/9781484701935.m4a"/>
+		</par>
+		<par id="id15g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="23697ms" clipEnd="23967ms" src="../audio/9781484701935.m4a"/>
+		</par>
+	</body>
+</smil>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id298g">
+      <!--  -->
+      <text src="../021.xhtml#empty"/>
+      <audio clipBegin="176600ms" clipEnd="176857ms" src="../audio/9781484751879.m4a"/>
+    </par>
+    <par id="id298">
+      <!-- Poof -->
+      <text src="../021.xhtml#w298"/>
+      <audio clipBegin="176857ms" clipEnd="178037ms" src="../audio/9781484751879.m4a"/>
+    </par>
+    <par id="id299">
+      <!-- Jack -->
+      <text src="../021.xhtml#w299"/>
+      <audio clipBegin="178037ms" clipEnd="178297ms" src="../audio/9781484751879.m4a"/>
+    </par>
+    <par id="id300">
+      <!-- Jack -->
+      <text src="../021.xhtml#w300"/>
+      <audio clipBegin="178297ms" clipEnd="178497ms" src="../audio/9781484751879.m4a"/>
+    </par>
+    <par id="id301">
+      <!-- uburst -->
+      <text src="../021.xhtml#w301"/>
+      <audio clipBegin="178497ms" clipEnd="179027ms" src="../audio/9781484751879.m4a"/>
+    </par>
+    <par id="id302">
+      <!-- into -->
+      <text src="../021.xhtml#w302"/>
+      <audio clipBegin="179027ms" clipEnd="179257ms" src="../audio/9781484751879.m4a"/>
+    </par>
+    <par id="id303">
+      <!-- flames -->
+      <text src="../021.xhtml#w303"/>
+      <audio clipBegin="179257ms" clipEnd="180507ms" src="../audio/9781484751879.m4a"/>
+    </par>
+    <par id="id304">
+      <!-- Kari -->
+      <text src="../021.xhtml#w304"/>
+      <audio clipBegin="180507ms" clipEnd="180867ms" src="../audio/9781484751879.m4a"/>
+    </par>
+    <par id="id305">
+      <!-- grabbed -->
+      <text src="../021.xhtml#w305"/>
+      <audio clipBegin="180867ms" clipEnd="181257ms" src="../audio/9781484751879.m4a"/>
+    </par>
+    <par id="id306">
+      <!-- the -->
+      <text src="../021.xhtml#w306"/>
+      <audio clipBegin="181257ms" clipEnd="181467ms" src="../audio/9781484751879.m4a"/>
+    </par>
+    <par id="id307">
+      <!-- fireplace -->
+      <text src="../021.xhtml#w307"/>
+      <audio clipBegin="181467ms" clipEnd="182097ms" src="../audio/9781484751879.m4a"/>
+    </par>
+    <par id="id308">
+      <!-- tongs -->
+      <text src="../021.xhtml#w308"/>
+      <audio clipBegin="182097ms" clipEnd="182747ms" src="../audio/9781484751879.m4a"/>
+    </par>
+    <par id="id308g">
+      <!--  -->
+      <text src="../021.xhtml#empty1"/>
+      <audio clipBegin="182747ms" clipEnd="183640ms" src="../audio/9781484751879.m4a"/>
+    </par>
+  </body>
+</smil>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id292g">
+      <!--  -->
+      <text src="../019.xhtml#empty"/>
+      <audio clipBegin="169322ms" clipEnd="169927ms" src="../audio/9781484751879.m4a"/>
+    </par>
+    <par id="id292">
+      <!-- A -->
+      <text src="../019.xhtml#w292"/>
+      <audio clipBegin="169927ms" clipEnd="170007ms" src="../audio/9781484751879.m4a"/>
+    </par>
+    <par id="id293">
+      <!-- triangle -->
+      <text src="../019.xhtml#w293"/>
+      <audio clipBegin="170007ms" clipEnd="171867ms" src="../audio/9781484751879.m4a"/>
+    </par>
+    <par id="id294">
+      <!-- A -->
+      <text src="../019.xhtml#w294"/>
+      <audio clipBegin="171867ms" clipEnd="171957ms" src="../audio/9781484751879.m4a"/>
+    </par>
+    <par id="id295">
+      <!-- house -->
+      <text src="../019.xhtml#w295"/>
+      <audio clipBegin="171957ms" clipEnd="173617ms" src="../audio/9781484751879.m4a"/>
+    </par>
+    <par id="id296">
+      <!-- A -->
+      <text src="../019.xhtml#w296"/>
+      <audio clipBegin="173617ms" clipEnd="173887ms" src="../audio/9781484751879.m4a"/>
+    </par>
+    <par id="id297">
+      <!-- campfire -->
+      <text src="../019.xhtml#w297"/>
+      <audio clipBegin="173887ms" clipEnd="174797ms" src="../audio/9781484751879.m4a"/>
+    </par>
+    <par id="id297g">
+      <!--  -->
+      <text src="../019.xhtml#empty1"/>
+      <audio clipBegin="174797ms" clipEnd="175705ms" src="../audio/9781484751879.m4a"/>
+    </par>
+  </body>
+</smil>

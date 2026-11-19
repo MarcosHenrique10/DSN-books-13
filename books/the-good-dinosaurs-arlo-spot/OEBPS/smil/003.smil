@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="100ms" clipEnd="16073ms" src="../audio/9781484701560.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- A -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="16073ms" clipEnd="16266ms" src="../audio/9781484701560.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- Dino -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="16266ms" clipEnd="16733ms" src="../audio/9781484701560.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- Named -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="16733ms" clipEnd="17303ms" src="../audio/9781484701560.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- Arlo -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="17303ms" clipEnd="18613ms" src="../audio/9781484701560.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- Illustrated -->
+			<text src="../003.xhtml#w5"/>
+			<audio clipBegin="18613ms" clipEnd="19583ms" src="../audio/9781484701560.m4a"/>
+		</par>
+		<par id="id6">
+			<!-- by -->
+			<text src="../003.xhtml#w6"/>
+			<audio clipBegin="19583ms" clipEnd="19713ms" src="../audio/9781484701560.m4a"/>
+		</par>
+		<par id="id7">
+			<!-- the -->
+			<text src="../003.xhtml#w7"/>
+			<audio clipBegin="19713ms" clipEnd="19803ms" src="../audio/9781484701560.m4a"/>
+		</par>
+		<par id="id8">
+			<!-- Disney -->
+			<text src="../003.xhtml#w8"/>
+			<audio clipBegin="19803ms" clipEnd="20323ms" src="../audio/9781484701560.m4a"/>
+		</par>
+		<par id="id9">
+			<!-- Storybook -->
+			<text src="../003.xhtml#w9"/>
+			<audio clipBegin="20323ms" clipEnd="21103ms" src="../audio/9781484701560.m4a"/>
+		</par>
+		<par id="id10">
+			<!-- Art -->
+			<text src="../003.xhtml#w10"/>
+			<audio clipBegin="21103ms" clipEnd="21353ms" src="../audio/9781484701560.m4a"/>
+		</par>
+		<par id="id11">
+			<!-- Team -->
+			<text src="../003.xhtml#w11"/>
+			<audio clipBegin="21353ms" clipEnd="21683ms" src="../audio/9781484701560.m4a"/>
+		</par>
+		<par id="id11g">
+			<!--  -->
+			<text src="../003.xhtml#empty1"/>
+			<audio clipBegin="21683ms" clipEnd="23013ms" src="../audio/9781484701560.m4a"/>
+		</par>
+	</body>
+</smil>

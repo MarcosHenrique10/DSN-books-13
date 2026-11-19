@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id356g">
+      <!--  -->
+      <text src="../026.xhtml#empty"/>
+      <audio clipBegin="207634ms" clipEnd="208837ms" src="../audio/9781484751879.m4a"/>
+    </par>
+    <par id="id356">
+      <!-- After -->
+      <text src="../026.xhtml#w356"/>
+      <audio clipBegin="208837ms" clipEnd="209227ms" src="../audio/9781484751879.m4a"/>
+    </par>
+    <par id="id357">
+      <!-- all -->
+      <text src="../026.xhtml#w357"/>
+      <audio clipBegin="209227ms" clipEnd="209937ms" src="../audio/9781484751879.m4a"/>
+    </par>
+    <par id="id358">
+      <!-- she -->
+      <text src="../026.xhtml#w358"/>
+      <audio clipBegin="209937ms" clipEnd="210187ms" src="../audio/9781484751879.m4a"/>
+    </par>
+    <par id="id359">
+      <!-- was -->
+      <text src="../026.xhtml#w359"/>
+      <audio clipBegin="210187ms" clipEnd="210907ms" src="../audio/9781484751879.m4a"/>
+    </par>
+    <par id="id360">
+      <!-- his -->
+      <text src="../026.xhtml#w360"/>
+      <audio clipBegin="210907ms" clipEnd="211487ms" src="../audio/9781484751879.m4a"/>
+    </par>
+    <par id="id361">
+      <!-- babysitter -->
+      <text src="../026.xhtml#w361"/>
+      <audio clipBegin="211487ms" clipEnd="213377ms" src="../audio/9781484751879.m4a"/>
+    </par>
+    <par id="id361g">
+      <!--  -->
+      <text src="../026.xhtml#empty1"/>
+      <audio clipBegin="213377ms" clipEnd="221274ms" src="../audio/9781484751879.m4a"/>
+    </par>
+  </body>
+</smil>
